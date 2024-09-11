@@ -1,0 +1,26 @@
+a: 50% E 50% Default 
+b: 60% E 40% Default 
+c: 70% E 30% Default 
+d: 80% E 20% Default 
+e: 100% E
+f: 100% Default
+g: 50% Open 50% Default 
+h: 50% E 50% Default 
+i: 70% E 30% O
+j: 70% Open 30% O
+k: 70% E 30% Default 
+l: 50% E 50% Default 
+m: 20% Open 80% Default
+n: 100% Default
+o: 100% O
+p: 100% E
+q: 80% O 20% Open
+r: 70% Open 30% Default 
+s: 60% E 40% Default 
+t: 80% E 20% Default 
+u: 70% O 30% Open
+v: 80% E 20% Default 
+w: 70% O 30% Open
+x: 80% E 20% Default 
+y: 70% E 30% O
+z: 100% E
